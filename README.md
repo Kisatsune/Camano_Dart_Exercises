@@ -9,5 +9,6 @@
 A coffee ordering system calculating totals, loyalty point rates, and threshold discount eligibility.
 
 ## How to Run
-step 1: go to dart.dev
+step 1: go to [dartpad.dev](https://dartpad.dev/)
+
 step 2: input your source code, and paste it dart dev then run.
