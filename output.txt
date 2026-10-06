@@ -1,0 +1,14 @@
+  COFFEE SHOP RECEIPT          
+                                    
+Customer Name: Christian Camano
+Drinks Ordered: 3
+Price per Drink: $4.50
+------------------------------------
+Subtotal: $13.50
+Tax (12%): $1.62
+Total Amount: $15.12
+------------------------------------
+Is customer eligible for discount? true
+Loyalty Points Earned: 10
+Bonus Points Remainder: 0
+Free Pastry Included: false
