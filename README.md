@@ -9,5 +9,5 @@
 A coffee ordering system calculating totals, loyalty point rates, and threshold discount eligibility.
 
 ## How to Run
-```bash
-dart run
+step 1: go to dart.dev
+step 2: input your source code, and paste it dart dev then run.
